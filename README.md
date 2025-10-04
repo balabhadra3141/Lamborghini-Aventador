@@ -50,9 +50,8 @@ This portfolio is deployed via **GitHub Pages**:
 
 ## Usage
 
-- Navigate through pages using the menu links  
-- Explore my projects and skills  
-- Use the contact form to get in touch  
+- Open `index.html` in any modern browser.  
+- Navigate through the sections to explore the car's features and gallery.
 
 
 ## Contact
