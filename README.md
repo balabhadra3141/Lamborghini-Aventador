@@ -58,7 +58,5 @@ This portfolio is deployed via **GitHub Pages**:
  
 - **GitHub:** [https://github.com/balabhadra3141](https://github.com/balabhadra3141)  
 - **LinkedIn:** [https://www.linkedin.com/in/balabhadra-padhi](https://www.linkedin.com/in/balabhadra-padhi)
-- **Instagram:** [https://www.instagram.com/its_balabhadra_01](https://www.instagram.com/its_balabhadra_01)
-
 
 ## ✨ Thank you for visiting the Lamborghini Aventador showcase!
